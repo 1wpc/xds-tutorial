@@ -40,7 +40,7 @@ ESP32的供电方式可以不必和我一样（我这里使用了5V电池是取�
 
 喜德盛功率计的蓝牙服务为0x1828（Mesh Proxy Service）特征值为0x2A63（Cycling Power Measurement）
 
-<img src="file:///E:/project/xdstutorial/d3c369fd352335afadc29b018a0c1bec.jpg" title="" alt="d3c369fd352335afadc29b018a0c1bec.jpg" width="409">
+<img title="" src="https://github.com/1wpc/xds-tutorial/blob/master/d3c369fd352335afadc29b018a0c1bec.jpg" alt="d3c369fd352335afadc29b018a0c1bec.jpg" width="409">
 
 另外，用nrf52840直接连接喜德盛功率计收不到数据，暂时用ESP32中转一下，所以该系统还有优化的空间，最好是能用一个板子解决。
 
